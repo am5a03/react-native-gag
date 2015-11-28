@@ -6,6 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "babel": "^6.1.18",
     "bluebird": "^3.0.5",
     "events": "^1.1.0",
     "flux": "^2.1.1",
